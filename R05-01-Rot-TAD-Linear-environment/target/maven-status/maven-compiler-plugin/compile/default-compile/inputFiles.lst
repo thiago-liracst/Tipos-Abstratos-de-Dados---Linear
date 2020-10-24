@@ -1,0 +1,10 @@
+/home/ricardo/ProjetosJava/leda/R05-01-Rot-TAD-Linear-environment/src/main/java/adt/queue/Queue.java
+/home/ricardo/ProjetosJava/leda/R05-01-Rot-TAD-Linear-environment/src/main/java/adt/queue/QueueUsingStack.java
+/home/ricardo/ProjetosJava/leda/R05-01-Rot-TAD-Linear-environment/src/main/java/adt/stack/StackUnderflowException.java
+/home/ricardo/ProjetosJava/leda/R05-01-Rot-TAD-Linear-environment/src/main/java/adt/stack/StackImpl.java
+/home/ricardo/ProjetosJava/leda/R05-01-Rot-TAD-Linear-environment/src/main/java/adt/stack/StackOverflowException.java
+/home/ricardo/ProjetosJava/leda/R05-01-Rot-TAD-Linear-environment/src/main/java/adt/stack/Stack.java
+/home/ricardo/ProjetosJava/leda/R05-01-Rot-TAD-Linear-environment/src/main/java/adt/queue/CircularQueue.java
+/home/ricardo/ProjetosJava/leda/R05-01-Rot-TAD-Linear-environment/src/main/java/adt/queue/QueueOverflowException.java
+/home/ricardo/ProjetosJava/leda/R05-01-Rot-TAD-Linear-environment/src/main/java/adt/queue/QueueUnderflowException.java
+/home/ricardo/ProjetosJava/leda/R05-01-Rot-TAD-Linear-environment/src/main/java/adt/queue/QueueImpl.java
